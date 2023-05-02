@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ViaVersion-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/discord-rpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ViaBackwards-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ViaRewind-2.0.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Intent-HWID-API-v1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ViaSnakeYaml-1.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/nashorn-jdk8u265-b01-x3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jdk-misc-3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lombok-1.18.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/reflections-0.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/imageboard-api-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/vecmath-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/janino-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/WMI4Java-1.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/json-20220924.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

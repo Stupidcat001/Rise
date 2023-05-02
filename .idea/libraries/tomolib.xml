@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tomolib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../tomolib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../tomolib" recursive="false" />
+  </library>
+</component>
